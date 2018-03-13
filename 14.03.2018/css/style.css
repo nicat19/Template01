@@ -1,0 +1,33 @@
+div.left{
+    width: 400px;
+    height: 400px;
+    background-color: #ffffff;
+    padding: 80px;
+    text-align: center;
+    border-style: solid;
+    position: relative;
+}
+.right{
+	float: right;
+	background-color: black;
+	width: 400px;
+	height: 400px;
+	padding: 80px;
+	margin-top: -565px;
+	margin-right: 136px;
+	border-style: solid;
+}
+.right,img{
+	text-align: center;
+}
+{
+	width: 150px;
+  	height: 150px;
+  	position: absolute;
+  	top: 50px;
+  	left: 50px;
+}
+#sol{
+  	position: absolute;
+  	z-index: 1;
+}
